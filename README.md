@@ -8,3 +8,4 @@ Features
 - Interactive Filters: Slicer for department
 
 Snapshot for Dashboard:
+https://github.com/John-9900/HR_Analytics_Dashboard/blob/main/Snapshot_HR_Dashboard.png
